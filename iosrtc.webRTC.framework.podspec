@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
                    DESC
   s.homepage     = "http://webrtc.org/"
   s.source       = { :git => "https://github.com/cordova-rtc/iosrtc.webRTC.framework.git", :tag => s.version }
-  s.license      = { :type => "BSD", :file => "LICENSE" }
+  s.license      = { :type => "BSD", :file => "WebRTC.framework/LICENSE" }
   s.author    = "Google Inc."
 
   s.platform     = :ios, "8.0"
