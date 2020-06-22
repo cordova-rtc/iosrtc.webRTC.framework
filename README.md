@@ -8,4 +8,4 @@ Custom WebRTC.framework for iosrtc.
 
 ## License
 
-[LICENSE](./iosrtc.WebRTC.framework/LICENSE.md) :)
+[BSD](./iosrtc.WebRTC.framework/LICENSE.md) :)
